@@ -9,3 +9,7 @@
 # 사용 부품
 아두이노 UNO, DC모터 2개, L9110s 모터 드라이버, 초음파 센서(HC-SR04)
 # 회로도
+![image](https://github.com/user-attachments/assets/4ad5609d-737c-4a0d-8a02-076f4821656f)
+# 사진
+![KakaoTalk_20250701_173946184](https://github.com/user-attachments/assets/342b440d-45d8-4913-b925-f12683531596)
+
